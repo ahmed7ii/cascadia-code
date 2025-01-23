@@ -12,7 +12,7 @@ Other related repositories include:
 
 # Installation
 
-**You can download the latest version of Cascadia Code from the releases page here:** https://github.com/microsoft/cascadia-code/releases
+**You can download the latest versi of Cascadia Code from the releases page here:** https://github.com/microsoft/cascadia-code/releases
 
 The variants contained within are:
 
